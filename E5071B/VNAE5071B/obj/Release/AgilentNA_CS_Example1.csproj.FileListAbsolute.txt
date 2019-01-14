@@ -1,0 +1,7 @@
+C:\Program Files\IVI Foundation\IVI\Drivers\AgNA\Examples\CSharp\CsExample1\bin\x64\Release\AgilentNA_CS_Example1.exe.config
+C:\Program Files\IVI Foundation\IVI\Drivers\AgNA\Examples\CSharp\CsExample1\bin\x64\Release\AgilentNA_CS_Example1.exe
+C:\Program Files\IVI Foundation\IVI\Drivers\AgNA\Examples\CSharp\CsExample1\bin\x64\Release\AgilentNA_CS_Example1.pdb
+C:\Program Files\IVI Foundation\IVI\Drivers\AgNA\Examples\CSharp\CsExample1\obj\Release\AgilentNA_CS_Example1.csprojResolveAssemblyReference.cache
+C:\Program Files\IVI Foundation\IVI\Drivers\AgNA\Examples\CSharp\CsExample1\obj\Release\AgilentNA_CS_Example1.csproj.ResolveComReference.cache
+C:\Program Files\IVI Foundation\IVI\Drivers\AgNA\Examples\CSharp\CsExample1\obj\Release\AgilentNA_CS_Example1.exe
+C:\Program Files\IVI Foundation\IVI\Drivers\AgNA\Examples\CSharp\CsExample1\obj\Release\AgilentNA_CS_Example1.pdb
